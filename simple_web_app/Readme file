@@ -1,0 +1,19 @@
+# Simple Web Application
+
+This is a simple web application built using Python with Flask for the backend and basic HTML for the frontend.
+
+## Dependencies
+
+- Python
+- Flask
+
+## Installation
+
+1. Clone this repository.
+2. Install dependencies: `pip install Flask`.
+
+## Usage
+
+- To start the server, run `python app.py`.
+- To run tests, run `python -m unittest tests/test_app.py`.
+
